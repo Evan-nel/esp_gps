@@ -1,4 +1,4 @@
-# 🌍 GPS Map Project
+# 🌍 ESP32 Portable GPS
 
 **Note:** As of now, the project has only been tested in an emulator environment.
 
